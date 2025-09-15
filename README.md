@@ -53,7 +53,7 @@ Simply open `index.html` in your browser to preview the site.
 
 ## 🌐 Live Demo
 
-(You can add a GitHub Pages link here once deployed.)
+https://bkirop.github.io/Week-8-capstone/
 
 ---
 
